@@ -1,0 +1,16 @@
+.wrap{
+	display: flex;
+}
+img {
+  border-radius: 50%;
+}
+div.a {
+ padding: 20px 74px ;
+
+}
+
+div.b {
+	 padding: 40px 30px;
+ margin-left: 50px;
+  
+} 
